@@ -1,14 +1,14 @@
 # Job Application Form
 
 A simple and responsive job application form created with HTML and CSS.
+
+
 ![Job Application Form](https://i.postimg.cc/sgqZhBY3/Screenshot-2024-03-06-135454.png)
 ## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Overview
 
@@ -28,4 +28,9 @@ To get started with this project, follow these steps:
 
    ```bash
    git clone https://github.com/yogendrabhammarkar57/JOB-APP-PAGE.git
+
+
+
+
+
 
