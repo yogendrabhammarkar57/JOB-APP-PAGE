@@ -1,7 +1,7 @@
 # Job Application Form
 
 A simple and responsive job application form created with HTML and CSS.
-
+![Job Application Form](https://i.postimg.cc/sgqZhBY3/Screenshot-2024-03-06-135454.png)
 ## Table of Contents
 
 - [Overview](#overview)
